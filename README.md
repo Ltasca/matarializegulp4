@@ -1,15 +1,14 @@
 # Materializegulp4
-Projeto criado para concatenar e minificar fontes do matarializeCSS com gulp 4 
-
-Link to the Materialize framework source code: https://github.com/Ltasca/materializegulp4
+Esrutura de projeto utilizando matarializeCSS e fontawesome 
+Compila, concatena e minifica css e js utilizando gulp 4 
+Roda servidor browsersync para exibir as alterações em tempo real tanto na estação de trabalho como em outros dispositivos da rede de forma sincronizada.
 
 #### Setup
-```
+
 git clone https://github.com/Ltasca/materializegulp4.git
 cd materializegulp4
 npm install
 npm run build
-```
 
 ## How to Use
 

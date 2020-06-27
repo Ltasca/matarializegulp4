@@ -1,5 +1,4 @@
-.gitignore
-node_modules/
-dist/assets/fontawesome/
+/node_modules
+dist/assets/fontawesome
 README.md
 
